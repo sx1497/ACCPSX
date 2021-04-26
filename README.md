@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sx1497
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 17513611310@163.om
 
